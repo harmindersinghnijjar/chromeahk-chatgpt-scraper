@@ -6,7 +6,7 @@ SetBatchLines, -1
 user = %A_UserName%
 
 ; Adjust path to location of Chrome.ahk
-#Include C:\Program Files\AutoHotkey\Chrome.ahk_v1.2\Chrome.ahk
+#Include Chrome.ahk_v1.2\Chrome.ahk
 
 ; Close all Chrome processes
 Process, Close, chrome.exe
